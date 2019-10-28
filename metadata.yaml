@@ -1,5 +1,8 @@
 _repo: Tottisalmen-perillinen_60534
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Swan, Anni
@@ -12,6 +15,8 @@ creator:
     - https://fi.wikipedia.org/wiki/Anni_Swan
     - https://en.wikipedia.org/wiki/Anni_Swan
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60534#Tottisalmen-perillinen
 gutenberg_issued: '2019-10-20'
 gutenberg_type: Text
 identifiers:
