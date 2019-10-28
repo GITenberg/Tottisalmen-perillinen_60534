@@ -1,0 +1,28 @@
+_repo: Tottisalmen-perillinen_60534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swan, Anni
+    alias: Swan-Manninen, Anni Emilia
+    birthdate: 1875
+    deathdate: 1958
+    gutenberg_agent_id: '47803'
+    url: http://www.gutenberg.org/2009/agents/47803
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Anni_Swan
+    - https://en.wikipedia.org/wiki/Anni_Swan
+description: ''
+gutenberg_issued: '2019-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60534'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish fiction -- 20th century'
+- !lcc 'PH'
+- GITenberg
+title: Tottisalmen perillinen
+url: http://www.gutenberg.org/ebooks/60534
